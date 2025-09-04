@@ -1,0 +1,59 @@
+# Environment files containing sensitive API keys
+src/config.env
+*.env
+
+# Virtual environments
+venv/
+new_venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (may contain sensitive information)
+data/
+
+# Test files that might contain sensitive data
+test_*.py
+
+# Backup files
+*.bak
+*.backup
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST

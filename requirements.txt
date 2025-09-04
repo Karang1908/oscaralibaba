@@ -1,0 +1,11 @@
+python-dotenv
+yfinance
+requests
+qwenai
+pandas
+numpy
+alpha-vantage
+apscheduler
+pytest
+google-api-python-client==2.108.0
+beautifulsoup4==4.12.2
